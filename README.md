@@ -2,11 +2,9 @@
 - Aldo Abraham Ortiz Lopez
 - aldoabraham123@gmail.com
 
-## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+## Actividad 2
+- P001-hola-mundo
+- P002-area-circulo
+- P003-area-triangulo
+- P004-paga-trabajador
 
-## Actvidad 2
-- Programa 4
-- Programa 5
