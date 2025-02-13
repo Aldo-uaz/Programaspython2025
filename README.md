@@ -15,9 +15,9 @@
 - P008-dividir-cifras
 
 ## Tarea 1
-# -P009-hipotenusa-triangulo
-# -P010-tercer-angulo
-# -P011-combertir-temperatura
-# -P012-volumen-cilindro
-# -P013-calculo-tiempo
-# -P014-numero-suerte
+ -P009-hipotenusa-triangulo
+ -P010-tercer-angulo
+ -P011-combertir-temperatura
+ -P012-volumen-cilindro
+ -P013-calculo-tiempo
+ -P014-numero-suerte
