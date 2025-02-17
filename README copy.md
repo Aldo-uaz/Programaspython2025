@@ -25,5 +25,5 @@
 ## Actividad 4
 - P015-varificar-numero
 - P016-verificar-suma
-- P017-convertir-temperatura
+- P017-
 - P018-paga-trabajador
