@@ -27,3 +27,10 @@
 - P016-verificar-suma
 - P017-convertir-temperatura
 - P018-paga-trabajador
+
+## Actividad 5
+- P019-varifica-suma
+- P020-ley-de-newton
+- P021-aceptar-estudiante
+- P021-b-aceptar-estudiante
+- P022-tipo-angulo
