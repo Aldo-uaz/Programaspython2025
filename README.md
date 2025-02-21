@@ -34,3 +34,11 @@
 - P021-aceptar-estudiante
 - P021-b-aceptar-estudiante
 - P022-tipo-angulo
+
+## Tarea 2
+- P023-numeros-consecutivos
+- P024-numero-mayor
+- P025-dia-semana
+- P026-numeros-romanos
+- P027-calulo-notas
+- P028-aceptar-estudiante-v2
