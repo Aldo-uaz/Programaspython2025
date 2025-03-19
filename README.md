@@ -42,3 +42,10 @@
 - P026-numeros-romanos
 - P027-calulo-notas
 - P028-aceptar-estudiante-v2
+
+## Actividad 6
+- P029-numeros-1-100
+- P030-numeros-100-1
+- P031-numeros-1-200-10
+- P032-numeros-suma-100
+- P033-conteo-numeros
