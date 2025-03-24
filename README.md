@@ -49,3 +49,10 @@
 - P031-numeros-1-200-10
 - P032-numeros-suma-100
 - P033-conteo-numeros
+
+## Actividad 7
+- P034-tabla-conversion(1)
+- P035-conjetura-collatz(1)
+- P036-tabla-multiplicar(1)
+- P037-tabla-multiplicar(2)
+- P038-adivina-numero
