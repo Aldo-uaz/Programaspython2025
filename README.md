@@ -56,3 +56,14 @@
 - P036-tabla-multiplicar(1)
 - P037-tabla-multiplicar(2)
 - P038-adivina-numero
+
+## Tarea 3
+- P039-impares-ascendente
+- P040-pares-desencente
+- P041
+- P042
+- P043
+- P044
+
+## Parcial 1
+- P045-numero-mayor
