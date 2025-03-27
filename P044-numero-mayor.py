@@ -2,17 +2,21 @@
 import os ; os.system('cls')
 c = m = 0
 while(True):
-    num = int(input('Dame un numero:  '))
-    if num == 0:
-        break
-    else: 
-        c += 1
-    if num < m:
-        m == num
+    while(True):
+        num = int(input('Dame un numero:  '))
+        if num == 0:
+            break
+        else: 
+            c += 1
+        if num > m:
+            m = num
+        else:
+            m = m
 
-             
-print(f'se introdujeron {c} numeros')
-print(f'El numero mayor es:  {m}')
+                
+    print(f'se introdujeron {c} numeros')
+    print(f'El numero mayor es:  {m}')
 
-
-print('Gracias por usar este programa')
+    if input('Deseas continuar (S/N)').upper()=='N': break
+print('\nProceso terminado')
+print('\nGracias por usar este programa')

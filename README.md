@@ -60,10 +60,10 @@
 ## Tarea 3
 - P039-impares-ascendente
 - P040-pares-desencente
-- P041
-- P042
-- P043
-- P044
+- P041-promedio-suma
+- P042-suma-200
+- P043-conversion-temperatura
+- P044-numero-mayor
 
 ## Parcial 1
 - P045-numero-mayor
