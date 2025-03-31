@@ -67,6 +67,13 @@
 
 ## Parcial 1
 - P045-numero-mayor
+
 # Ciclo for
 ## Actividad 8
 - P046-numeros-1-100
+- P047-numeros-100-1
+- P048-arriba-abajo
+- P049-sumar-pares-impares
+- P050-suma-numeros
+- P051-multipos-suma
+- P052-base-exp
