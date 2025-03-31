@@ -27,14 +27,14 @@
 - P016-verificar-suma
 - P017-convertir-temperatura
 - P018-paga-trabajador
-
+# if, else, elif
 ## Actividad 5
 - P019-varifica-suma
 - P020-ley-de-newton
 - P021-aceptar-estudiante
 - P021-b-aceptar-estudiante
 - P022-tipo-angulo
-
+# Ciclo while
 ## Tarea 2
 - P023-numeros-consecutivos
 - P024-numero-mayor
@@ -67,3 +67,6 @@
 
 ## Parcial 1
 - P045-numero-mayor
+# Ciclo for
+## Actividad 8
+- P046-numeros-1-100
