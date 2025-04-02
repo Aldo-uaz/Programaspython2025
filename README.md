@@ -77,3 +77,12 @@
 - P050-suma-numeros
 - P051-multipos-suma
 - P052-base-exp
+
+# Actividad 9
+- P053-factorial
+- P054-tabla-multiplicar
+## Ciclo anidados
+- P055-tablas-multiplicar 
+- P056-piramide-caracter
+- P057-factorial-numeros
+- P058-combina-colores
