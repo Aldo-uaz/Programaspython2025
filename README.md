@@ -86,3 +86,10 @@
 - P056-piramide-caracter
 - P057-factorial-numeros
 - P058-combina-colores
+
+# Tarea 4
+- P059-numeros-10-en-10
+- P060-suma-pares-2-n
+- P061-secuencia-numeros-1
+- P062-secuencia-numeros-2
+- P063-secuencia-terminos-1
