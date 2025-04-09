@@ -100,3 +100,11 @@
 - P066-agregar-lista
 - P067-remover-lista
 - P068-iterar-lista
+
+# Actividad 11
+- P069-procesar-calificacion
+- P070-sumar-lista
+- P071-dia-paga
+- P072-nombres-edades
+- P073-listas-aleatorios
+
