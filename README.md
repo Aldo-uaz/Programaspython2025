@@ -108,3 +108,10 @@
 - P072-nombres-edades
 - P073-listas-aleatorios
 
+# Tarea 5
+- P074-procesar-notas
+- P075-listas-multiplica
+- P076-mes-dia-nombre
+- P077-listas-aleatorios-suma
+- P078-ciudades
+- P079-listas-impares
