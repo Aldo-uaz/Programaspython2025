@@ -115,3 +115,10 @@
 - P077-listas-aleatorios-suma
 - P078-ciudades
 - P079-listas-impares
+
+# Actividad 12
+- P080-estudiante
+- P081-calificaciones
+- P082-nombresyedades
+- P083-conversion-medida
+- P084-conversion-moneda
