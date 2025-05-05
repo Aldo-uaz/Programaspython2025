@@ -115,10 +115,17 @@
 - P077-listas-aleatorios-suma
 - P078-ciudades
 - P079-listas-impares
-
+# Diccionarios
 # Actividad 12
 - P080-estudiante
 - P081-calificaciones
 - P082-nombresyedades
 - P083-conversion-medida
 - P084-conversion-moneda
+
+# Actividad 13
+- P085-procesar-pizza
+- P086-lista-d-auto
+- P087-lista-d-estudiante
+- P088-cliente-productos
+- P089-area-figuras
