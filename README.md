@@ -93,7 +93,7 @@
 - P061-secuencia-numeros-1
 - P062-secuencia-numeros-2
 - P063-secuencia-terminos-1
-
+## Listas
 # Actividad 10
 - P064-acceder-lista
 - P065-cambiar-lista
@@ -137,3 +137,13 @@
 - P093-eliminar-diccionario
 - P094-procesar-diccionario
 - P095-contar-caracteres
+
+## Conjuntos
+
+# Actividad 14
+- P096-trabajando-conjuntos
+- P097-operaciones-de.conjuntos
+# Tarea 7
+- P098-
+- P099-
+- P100-
