@@ -143,7 +143,29 @@
 # Actividad 14
 - P096-trabajando-conjuntos
 - P097-operaciones-de.conjuntos
+
 # Tarea 7
-- P098-
-- P099-
+- P098-Personas
+- P099-Numeros
+
+# Parcial 2
 - P100-
+
+# Funsiones
+# Actividad 15
+- P101-funcion
+- P102-funcion-parametro
+- P103-funcion-parameros
+- P104-funcion-mas-parameros
+- P105-funcion-parameros-nombre
+- P106-funcion-parametros-por-defecto
+- P107-funcion-retorno
+- P108-tabla-de-multiplicar
+- P109-cuadro-cuadrado
+- P110-numero-mayor
+- P111-estacion-del-año
+- P112-Temperatura
+- P113-suma-digitos
+- P114-factorial
+- P115-calificacion-letra
+- P116-suma-rango
