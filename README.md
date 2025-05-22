@@ -149,7 +149,7 @@
 - P099-Numeros
 
 # Parcial 2
-- P100-
+- P100-Segundo-examen-parcial
 
 # Funsiones
 # Actividad 15
